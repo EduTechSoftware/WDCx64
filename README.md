@@ -101,7 +101,7 @@ Como o arquivo executável `.exe` é gerado a partir de um script PowerShell emp
 ## 🤝 Desenvolvedor & Créditos
 
 * Criado e desenvolvido por: **EduTechSoftware**
-* Inspirado na arquitetura da ferramenta de catálogo **WinUtil (Chris Titus)**.
+* Inspirado na arquitetura de catálogo modular do WinUtil e ferramentas similares da atualidade.
 * Compilado através do utilitário open-source **Win-PS2EXE**.
 
 ---
