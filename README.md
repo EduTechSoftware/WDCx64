@@ -38,16 +38,16 @@ Diferente de ferramentas que prometem "milagres" sem comprovação, o **WDCx64**
 ### 🖥️ Interface Principal (WDCx64)
 *Visual Dark/Neon profissional com telemetria de hardware em tempo real e assinatura EduTechSoftware.*
 
-![Interface WDCx64](interface.png)
+<img src="https://raw.githubusercontent.com/EduTechSoftware/WDCx64/main/interface.png" alt="Interface WDCx64" width="900"/>
 
-<br/>
+<br/><br/>
 
 ### ⚡ Desempenho Comprovado no Gerenciador de Tarefas
 *Apenas 67 processos ativos com 0% de uso de CPU e memória RAM estabilizada em 2,2 GB.*
 
 <p align="center">
-  <img src="processos.png" alt="67 Processos Ativos" width="49%"/>
-  <img src="memoria.png" alt="2.2 GB de RAM" width="49%"/>
+  <img src="https://raw.githubusercontent.com/EduTechSoftware/WDCx64/main/processos.png" alt="67 Processos Ativos" width="48%"/>
+  <img src="https://raw.githubusercontent.com/EduTechSoftware/WDCx64/main/memoria.png" alt="2.2 GB de RAM" width="48%"/>
 </p>
 
 </div>
