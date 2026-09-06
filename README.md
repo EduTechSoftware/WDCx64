@@ -10,7 +10,30 @@
 
 <br/>
 
-> **WDCx64 (WinDebloatClean)** é uma suíte completa de limpeza, privacidade e otimização profunda para Windows 10 e 11. Desenvolvido para erradicar bloatwares, encerrar telemetrias abusivas, exterminar processos pesados em segundo plano e entregar a menor latência possível para jogos e produtividade.
+> **WDCx64 (WinDebloatClean)** é uma suíte completa de limpeza, privacidade e otimização profunda para Windows 10 e 11. Desenvolvido para erradicar bloatwares, encerrar telemetrias abusivas, exterminar processos pesados em segundo plano e entregar a menor latência possível para jogos competitivos e uso diário.
+
+</div>
+
+---
+
+## 📸 Provas Reais & Capturas de Tela
+
+<div align="center">
+
+### 🖥️ Interface Principal (WDCx64)
+*Visual Dark/Neon profissional com telemetria de hardware em tempo real e assinatura EduTechSoftware.*
+
+<img src="https://github.com/user-attachments/assets/fcc0c3c2-daee-43f0-90bc-97570d5aa3c5" alt="Interface WDCx64" width="900" />
+
+<br/><br/>
+
+### ⚡ Desempenho Comprovado no Gerenciador de Tarefas
+*Apenas 67 processos ativos em repouso com 0% de uso de CPU e memória RAM estabilizada em incríveis 2,2 GB.*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a700846f-314e-4fd0-a664-1596f6c62d5f" alt="Processos" width="48%" />
+  <img src="https://github.com/user-attachments/assets/3342d06b-9ce4-42f6-afed-b7c0b3828a29" alt="Memoria" width="48%" />
+</p>
 
 </div>
 
@@ -28,29 +51,6 @@ Diferente de ferramentas que prometem "milagres" sem comprovação, o **WDCx64**
 | **Micro-travamentos (*Stuttering*)** | Frequentes (Telemetria/WebView2) | **Eliminados (Timer em 0.5ms)** | **Fluidez constante** |
 
 > *(Testado em ambiente real: Intel Xeon E5-2698 v3 + AMD Radeon RX 5500 XT + 32 GB RAM).*
-
----
-
-## 📸 Provas Reais & Capturas de Tela
-
-<div align="center">
-
-### 🖥️ Interface Principal (WDCx64)
-*Visual Dark/Neon profissional com telemetria de hardware em tempo real e assinatura EduTechSoftware.*
-
-<img src="https://raw.githubusercontent.com/EduTechSoftware/WDCx64/main/interface.png" alt="Interface WDCx64" width="900"/>
-
-<br/><br/>
-
-### ⚡ Desempenho Comprovado no Gerenciador de Tarefas
-*Apenas 67 processos ativos com 0% de uso de CPU e memória RAM estabilizada em 2,2 GB.*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EduTechSoftware/WDCx64/main/processos.png" alt="67 Processos Ativos" width="48%"/>
-  <img src="https://raw.githubusercontent.com/EduTechSoftware/WDCx64/main/memoria.png" alt="2.2 GB de RAM" width="48%"/>
-</p>
-
-</div>
 
 ---
 
